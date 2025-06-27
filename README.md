@@ -3,21 +3,33 @@
 
 <p align="center">🎯 Люблю анализировать процессы, работать с данными и находить решения, которые приносят результат.</p>
 
-<p align="center">📩 Email: [dusubaeva.as@gmail.com](mailto:dusubaeva.as@gmail.com)
-💬 Telegram: [@aevi_o04](https://t.me/aevi_o04)
+<p align="center">
+  📩 <a href="mailto:dusubaeva.as@gmail.com">dusubaeva.as@gmail.com</a>  
+</p>
+
+<p align="center">
+  <a href="https://t.me/aevi_o04" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+  </a>
+  <a href="https://vk.com/aevi_o04" target="_blank">
+    <img src="https://img.shields.io/badge/VK-4C75A3?style=for-the-badge&logo=vk&logoColor=white" alt="VK Badge"/>
+  </a>
+</p>
 
 ---
 
-### 💼 Чем занимаюсь:
-- Проектирую и описываю бизнес-процессы
-- Составляю требования к продуктам (BRD, SRS, user stories)
-- Использую визуализацию (диаграммы, схемы) для описания логики
-- Слежу за соответствием задач бизнес-целям
+<h3 align="center">💼 Чем занимаюсь:</h3>
+
+<p align="center">
+Проектирую и описываю бизнес-процессы · Составляю требования (BRD, SRS, User Stories) <br/>
+Использую визуализацию (BPMN/UML) · Контролирую реализацию бизнес-целей
+</p>
 
 ---
 
-### 🛠️ Стек и инструменты:
-<p align="left">
+<h3 align="center">🛠️ Стек и инструменты:</h3>
+
+<p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" title="Python"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" title="PostgreSQL"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" title="Git"/>
@@ -28,8 +40,9 @@
 
 ---
 
-### 🌱 Сейчас изучаю:
-- BPMN, UML, SQL, Python
-- REST API
-- Методы оценки требований
-- BI-инструменты (Metabase, Power BI)
+<h3 align="center">🌱 Сейчас изучаю:</h3>
+
+<p align="center">
+BPMN · UML · SQL · Python · REST API · BI-инструменты (Metabase, Power BI) · Оценка требований
+</p>
+
