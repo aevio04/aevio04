@@ -25,11 +25,11 @@
 
 ---
 
-<h3 align="center">💼 What I do:</h3>
+<h3 align="center">💼 Что я делаю:</h3>
 
 <p align="center">
-Design and model business processes · Write and manage requirements (BRD, SRS, User Stories)<br/>
-Use BPMN / UML for visualization · Align solutions with business goals
+Проектирую и моделирую бизнес-процессы · Формулирую и веду требования (BRD, SRS, User Stories)<br/>
+Визуализирую процессы с помощью BPMN / UML · Сопровождаю внедрение решений в соответствии с бизнес-целями
 </p>
 
 ---
