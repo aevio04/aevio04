@@ -19,10 +19,6 @@
   ![КФУ](https://img.shields.io/badge/КФУ-Бизнес--аналитика-4CAF50?style=flat-square&logo=graduation-cap)
   ![Школа 21](https://img.shields.io/badge/Школа_21-IT-FF6B35?style=flat-square&logo=code)
   
-</div>
-
-📍 **Казанский федеральный университет** — изучаю бизнес-аналитику  
-💻 **Школа 21** — развиваюсь в области IT  
 
 ## 💼 Что я умею
 
