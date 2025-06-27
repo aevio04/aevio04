@@ -1,8 +1,8 @@
 # Привет! 👋 Меня зовут Асель
 
+**Бизнес- и системный аналитик**
+
 <div align="center">
-  
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=435&lines=Бизнес-аналитик;Системный+аналитик;Process+Designer;Data+Storyteller)
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
   [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dusubaeva.as@gmail.com)
@@ -94,52 +94,10 @@
 
 </div>
 
-## 📈 Активность на GitHub
-
-<div align="center">
-  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true)
-  
-</div>
-
-## 🎯 Текущие проекты
-
-🚀 **Автоматизация бизнес-процессов** — разработка решений для оптимизации workflow  
-📊 **Аналитическая платформа** — создание инструментов для анализа данных  
-💡 **Стартап-консалтинг** — помощь в структурировании бизнес-требований  
-
 ---
 
 <div align="center">
-  
-  ### 💫 "Хорошая аналитика превращает данные в решения, а решения — в результаты"
   
   ![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=6366f1&style=flat-square&label=Просмотров+профиля)
   
-  <details>
-  <summary>🎵 Сейчас слушаю</summary>
-  <br>
-  
-  [![Spotify](https://spotify-github-profile.vercel.app/api/spotify)](https://open.spotify.com/user/yourusername)
-  
-  </details>
-  
 </div>
-
----
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="25"> 
-  <strong>Готова к новым вызовам и интересным проектам!</strong>
-</div>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="30" title="Python"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" title="PostgreSQL"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="30" title="Git"/>
-  <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="Hadoop" width="30" title="Hadoop"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="30" title="Linux"/>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="30" title="Figma"/>
-</p>
