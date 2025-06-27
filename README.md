@@ -4,7 +4,7 @@
 
 ## **Business & System Analyst**
 
-<br>
+
 
 [![VK](https://img.shields.io/badge/VK-4680C2?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/aevi_o04)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dusubaeva.as@gmail.com)
