@@ -12,7 +12,7 @@
 
 </div>
 
----
+
 
 <div align="center">
 
@@ -21,12 +21,11 @@
 ![КФУ](https://img.shields.io/badge/КФУ-Бизнес--аналитика-4CAF50?style=flat-square&logo=graduation-cap)
 ![Школа 21](https://img.shields.io/badge/Школа_21-IT-FF6B35?style=flat-square&logo=code)
 
-**📍 Казанский федеральный университет** — изучаю бизнес-аналитику  
-**💻 Школа 21** — развиваюсь в области IT
+
 
 </div>  
 
----
+
 
 ## 💼 Что я умею
 
@@ -71,9 +70,8 @@
 </tr>
 </table>
 
-</div>
 
----
+
 
 ## 🛠️ Технологический стек
 
@@ -99,14 +97,6 @@
 
 </div>
 
----
 
-<div align="center">
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=6366f1&style=flat-square&label=Просмотров+профиля)
-  
-</div>
-
----
 
 
