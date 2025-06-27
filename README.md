@@ -87,8 +87,4 @@
 
 ---
 
-<div align="center">
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=6366f1&style=flat-square&label=Просмотров+профиля)
-  
-</div>
+
