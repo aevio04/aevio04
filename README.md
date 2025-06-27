@@ -6,8 +6,8 @@
 ---
 
 ### 📬 Контакты:
-- 📧 Email: [dusubaeva.as@gmail.com](mailto:dusubaeva.as@gmail.com)
-- 💬 Telegram: [@aevi_o04](https://t.me/aevi_o04)
+📩 Email: [dusubaeva.as@gmail.com](mailto:dusubaeva.as@gmail.com)
+💬 Telegram: [@aevi_o04](https://t.me/aevi_o04)
 
 ---
 
