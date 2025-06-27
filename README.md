@@ -14,7 +14,6 @@
 ### 💼 Чем занимаюсь:
 - Проектирую и описываю бизнес-процессы
 - Составляю требования к продуктам (BRD, SRS, user stories)
-- Провожу интервью с заказчиками и пользователями
 - Использую визуализацию (диаграммы, схемы) для описания логики
 - Слежу за соответствием задач бизнес-целям
 
@@ -36,13 +35,7 @@
 ---
 
 ### 🌱 Сейчас изучаю:
-- BPMN, UML, SQL
+- BPMN, UML, SQL, Python
 - REST API
 - Методы оценки требований
 - BI-инструменты (Metabase, Power BI)
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aevio04&show_icons=true&locale=ru&theme=default" alt="GitHub Stats" />
-</p>
