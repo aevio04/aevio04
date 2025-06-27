@@ -1,66 +1,79 @@
-# Привет! 👋 Меня зовут Асель
 <div align="center">
-## Business & System Analyst**
 
-<div align="center">
-  
-  [![VK](https://img.shields.io/badge/VK-4680C2?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/aevi_o04)
-  [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dusubaeva.as@gmail.com)
-  [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/aevi_o04)
+# 👋 Привет! Меня зовут Асель
+
+## **Business & System Analyst**
+
+<br>
+
+[![VK](https://img.shields.io/badge/VK-4680C2?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/aevi_o04)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dusubaeva.as@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/aevi_o04)
 
 </div>
 
 ---
 
+<div align="center">
+
 ## 🎓 Образование и развитие
 
-<div align="center">
-  
-  ![КФУ](https://img.shields.io/badge/КФУ-Бизнес--аналитика-4CAF50?style=flat-square&logo=graduation-cap)
-  ![Школа 21](https://img.shields.io/badge/Школа_21-IT-FF6B35?style=flat-square&logo=code)
-  
+![КФУ](https://img.shields.io/badge/КФУ-Бизнес--аналитика-4CAF50?style=flat-square&logo=graduation-cap)
+![Школа 21](https://img.shields.io/badge/Школа_21-IT-FF6B35?style=flat-square&logo=code)
+
+**📍 Казанский федеральный университет** — изучаю бизнес-аналитику  
+**💻 Школа 21** — развиваюсь в области IT
+
+</div>  
+
 ---
 
 ## 💼 Что я умею
 
+<div align="center">
+
 <table>
 <tr>
-<td width="50%">
+<td width="50%" align="center">
 
-**🏗️ Проектирование**
-- Моделирование бизнес-процессов
-- Создание архитектуры решений
-- Прототипирование интерфейсов
+### 🏗️ Проектирование
+• Моделирование бизнес-процессов  
+• Создание архитектуры решений  
+• Прототипирование интерфейсов
 
 </td>
-<td width="50%">
+<td width="50%" align="center">
 
-**📋 Документирование**
-- Business Requirements Document (BRD)
-- Software Requirements Specification (SRS)  
-- User Stories & Acceptance Criteria
+### 📋 Документирование
+• Business Requirements Document (BRD)  
+• Software Requirements Specification (SRS)  
+• User Stories & Acceptance Criteria
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" align="center">
 
-**📊 Визуализация**
-- BPMN диаграммы
-- UML моделирование
-- Дашборды и отчеты
+### 📊 Визуализация
+• BPMN диаграммы  
+• UML моделирование  
+• Дашборды и отчеты
 
 </td>
-<td width="50%">
+<td width="50%" align="center">
 
-**🚀 Внедрение**
-- Сопровождение проектов
-- Управление изменениями
-- Контроль качества
+### 🚀 Внедрение
+• Сопровождение проектов  
+• Управление изменениями  
+• Контроль качества
 
 </td>
 </tr>
 </table>
+
+</div>
+
+---
 
 ## 🛠️ Технологический стек
 
@@ -84,6 +97,14 @@
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
+</div>
+
+---
+
+<div align="center">
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=6366f1&style=flat-square&label=Просмотров+профиля)
+  
 </div>
 
 ---
