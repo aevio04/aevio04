@@ -5,7 +5,7 @@
 
 ### 📫 Контакты:
 - Email: **dusubaeva.as@gmail.com**
-- Telegram: [@raiki410](https://t.me/raiki410)
+- Telegram: [@aevi_o04](https://t.me/aevi_o04)
 
 ---
 
