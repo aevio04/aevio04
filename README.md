@@ -3,9 +3,6 @@
 
 <p align="center">🎯 Люблю анализировать процессы, работать с данными и находить решения, которые приносят результат.</p>
 
----
-
-### 📬 Контакты:
 📩 Email: [dusubaeva.as@gmail.com](mailto:dusubaeva.as@gmail.com)
 💬 Telegram: [@aevi_o04](https://t.me/aevi_o04)
 
