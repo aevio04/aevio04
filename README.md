@@ -22,10 +22,3 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30"/>
   <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="30"/>
 </p>
-
----
-
-### 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aevio04&show_icons=true&locale=ru" alt="aevio04" />
-</p>
