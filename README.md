@@ -1,6 +1,6 @@
 # Привет! 👋 Меня зовут Асель
-
-**Business & System Analyst**
+<div align="center">
+## Business & System Analyst**
 
 <div align="center">
   
@@ -19,6 +19,7 @@
   ![КФУ](https://img.shields.io/badge/КФУ-Бизнес--аналитика-4CAF50?style=flat-square&logo=graduation-cap)
   ![Школа 21](https://img.shields.io/badge/Школа_21-IT-FF6B35?style=flat-square&logo=code)
   
+---
 
 ## 💼 Что я умею
 
