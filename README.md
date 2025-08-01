@@ -1,7 +1,7 @@
 <div align="center">
   
 # 👋 Привет! Меня зовут Асель
-### **SYSTEM ANALYSIS**
+### **SYSTEM | DATA ANALYSIS**
 
   
 <div align="center">
